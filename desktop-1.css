@@ -1,0 +1,866 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--log-cabin);
+  display: flex;
+  height: 826px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 0 19.6px;
+  width: 1440px;
+}
+.desktop-1 .base-circle {
+  align-items: flex-start;
+  display: flex;
+  height: 835px;
+  left: 0;
+  min-width: 835px;
+  position: absolute;
+  top: 0;
+}
+.desktop-1 .black-gradient {
+  height: 622px;
+  left: 108px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 102px;
+  width: 621px;
+}
+.desktop-1 .circle {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 125px;
+  margin-top: -3.88px;
+  min-width: 835px;
+}
+.desktop-1 .circle-1 {
+  align-items: center;
+  display: flex;
+  height: 835px;
+  justify-content: center;
+  left: 0;
+  min-width: 835px;
+  position: absolute;
+  top: 0;
+}
+.desktop-1 .circle-1-1 {
+  height: 826px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 836px;
+}
+.desktop-1 .circles-mini {
+  align-items: center;
+  display: flex;
+  height: 693px;
+  justify-content: flex-end;
+  left: 67px;
+  min-width: 693px;
+  padding: 3.5px 3.5px;
+  position: absolute;
+  top: 25px;
+}
+.desktop-1 .crystals {
+  height: 615px;
+  left: 116px;
+  position: absolute;
+  top: 105px;
+  width: 591px;
+}
+.desktop-1 .ellipse-1 {
+  border: 1px solid var(--log-cabin);
+  border-radius: 308.0523986816406px;
+  height: 616px;
+  left: 110px;
+  position: absolute;
+  top: 105px;
+  width: 616px;
+}
+.desktop-1 .ellipse-2 {
+  background-color: var(--purple-plum);
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  margin-top: 0.19px;
+  mix-blend-mode: normal;
+  transform: rotate(-135.00deg);
+  width: 17px;
+}
+.desktop-1 .ellipse-2-1 {
+  background-color: #fd693b;
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  margin-left: 0.01px;
+  mix-blend-mode: normal;
+  transform: rotate(-89.17deg);
+  width: 17px;
+}
+.desktop-1 .ellipse-2-2 {
+  background-color: var(--shampoo);
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  margin-top: 457px;
+  mix-blend-mode: normal;
+  transform: rotate(-179.26deg);
+  width: 17px;
+}
+.desktop-1 .ellipse-2-3 {
+  background-color: #c28d59;
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  margin-left: 0;
+  mix-blend-mode: normal;
+  transform: rotate(-45deg);
+  width: 17px;
+}
+.desktop-1 .ellipse-2-4 {
+  background-color: #61a2fe;
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  margin-top: 651px;
+  mix-blend-mode: normal;
+  transform: rotate(135.00deg);
+  width: 17px;
+}
+.desktop-1 .ellipse-2-5 {
+  background-color: #b3b59f;
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  margin-left: 0.01px;
+  mix-blend-mode: normal;
+  transform: rotate(0.74deg);
+  width: 17px;
+}
+.desktop-1 .ellipse-2-6 {
+  background-color: #43fe93;
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  margin-top: 456px;
+  mix-blend-mode: normal;
+  transform: rotate(90.83deg);
+  width: 17px;
+}
+.desktop-1 .ellipse-2-7 {
+  background-color: #827c96;
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  margin-left: 82px;
+  margin-top: 0.67px;
+  mix-blend-mode: normal;
+  transform: rotate(45.00deg);
+  width: 17px;
+}
+.desktop-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 52px;
+  width: 93px;
+}
+.desktop-1 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 38px;
+  min-height: 721px;
+  width: 430px;
+}
+.desktop-1 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 52px;
+  width: 93px;
+}
+.desktop-1 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.25px;
+  margin-left: 81px;
+  min-height: 491px;
+  width: 17px;
+}
+.desktop-1 .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 217px;
+  min-height: 686px;
+  width: 17px;
+}
+.desktop-1 .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.43px;
+  margin-left: 219px;
+  min-height: 490px;
+  width: 17px;
+}
+.desktop-1 .flex-col-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  min-height: 547px;
+  width: 77px;
+}
+.desktop-1 .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 178px;
+  min-height: 742px;
+  width: 94px;
+}
+.desktop-1 .flex-col-8 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 178px;
+  margin-top: 1.69px;
+  min-height: 547px;
+  width: 165px;
+}
+.desktop-1 .flex-row {
+  align-items: center;
+  display: flex;
+  height: 742px;
+  min-width: 461px;
+}
+.desktop-1 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 547px;
+  margin-top: 1.69px;
+  min-width: 188px;
+}
+.desktop-1 .group {
+  align-items: flex-start;
+  display: flex;
+  min-width: 93px;
+}
+.desktop-1 .group-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 14px;
+  min-width: 93px;
+}
+.desktop-1 .group-1-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 28px;
+  min-width: 430px;
+}
+.desktop-1 .group-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 52px;
+  margin-top: 475px;
+  min-width: 309px;
+}
+.desktop-1 .logo {
+  height: 62px;
+  margin-left: 12.51px;
+  width: 327px;
+}
+.desktop-1 .mini-circles {
+  align-items: flex-start;
+  display: flex;
+  height: 742px;
+  left: 5px;
+  min-width: 803px;
+  position: absolute;
+  top: 46px;
+}
+.desktop-1 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  min-width: 91px;
+  padding: 0.4px 23.6px;
+}
+.desktop-1 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  min-width: 91px;
+  padding: 0.4px 20.6px;
+}
+.desktop-1 .overlap-group-2 {
+  height: 835px;
+  position: relative;
+  width: 835px;
+}
+.desktop-1 .overlap-group-3 {
+  height: 616px;
+  margin-top: -0.32px;
+  position: relative;
+  width: 616px;
+}
+.desktop-1 .overlap-group10 {
+  align-items: flex-start;
+  border-radius: 15px;
+  display: flex;
+  height: 104px;
+  min-width: 428px;
+  padding: 43.6px 90.8px;
+}
+.desktop-1 .overlap-group3 {
+  height: 826px;
+  position: relative;
+  width: 836px;
+}
+.desktop-1 .overlap-group5 {
+  height: 742px;
+  position: relative;
+  width: 819px;
+}
+.desktop-1 .overlap-group6 {
+  height: 510px;
+  left: 177px;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+.desktop-1 .overlap-group7 {
+  height: 146px;
+  left: 276px;
+  position: absolute;
+  top: 469px;
+  width: 257px;
+}
+.desktop-1 .overlap-group8 {
+  height: 167px;
+  left: 18px;
+  position: absolute;
+  top: 338px;
+  width: 188px;
+}
+.desktop-1 .overlap-group9 {
+  height: 93px;
+  left: 37px;
+  position: absolute;
+  top: 171px;
+  width: 145px;
+}
+.desktop-1 .text-71 {
+  height: 18px;
+  letter-spacing: 0;
+  margin-right: 0.85px;
+  margin-top: 511px;
+  min-height: 18px;
+  min-width: 77px;
+  mix-blend-mode: normal;
+  text-align: right;
+  width: 77px;
+}
+.desktop-1 .text-72 {
+  height: 18px;
+  letter-spacing: 0;
+  min-height: 18px;
+  min-width: 67px;
+  mix-blend-mode: normal;
+  text-align: right;
+  width: 67px;
+}
+.desktop-1 .text-73 {
+  height: 18px;
+  letter-spacing: 0;
+  margin-top: 217px;
+  min-height: 18px;
+  mix-blend-mode: normal;
+  width: 83px;
+}
+.desktop-1 .text-74 {
+  height: 18px;
+  letter-spacing: 0;
+  margin-top: 705px;
+  min-height: 18px;
+  min-width: 94px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 94px;
+}
+.desktop-1 .text-75 {
+  height: 18px;
+  letter-spacing: 0;
+  margin-right: 1.69px;
+  min-height: 18px;
+  min-width: 57px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 57px;
+}
+.desktop-1 .text-76 {
+  height: 18px;
+  letter-spacing: 0;
+  min-height: 18px;
+  mix-blend-mode: normal;
+  width: 102px;
+}
+.desktop-1 .text-77 {
+  height: 18px;
+  letter-spacing: 0;
+  margin-top: 57.63px;
+  min-height: 18px;
+  min-width: 90px;
+  mix-blend-mode: normal;
+  text-align: right;
+  width: 90px;
+}
+.desktop-1 .text-78 {
+  align-self: flex-end;
+  height: 18px;
+  letter-spacing: 0;
+  margin-top: 275px;
+  min-height: 18px;
+  min-width: 64px;
+  mix-blend-mode: normal;
+  width: 64px;
+}
+.desktop-1 .text-79 {
+  height: 15px;
+  letter-spacing: 0;
+  min-height: 15px;
+  min-width: 246px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 246px;
+}
+.desktop-1 .text-8 {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 43px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 43px;
+}
+.desktop-1 .text-8-1 {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 49px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 49px;
+}
+.desktop-1 .text-circles {
+  align-items: flex-start;
+  display: flex;
+  height: 742px;
+  left: 0;
+  min-width: 819px;
+  padding: 0.0px 0.0px;
+  position: absolute;
+  top: 0;
+}
+.desktop-1 .vector {
+  height: 437px;
+  left: 90px;
+  position: absolute;
+  top: 90px;
+  width: 437px;
+}
+.desktop-1 .vector-1 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 308px;
+  width: 616px;
+}
+.desktop-1 .vector-2 {
+  height: 616px;
+  left: 307px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+.desktop-1 .vectors {
+  align-items: flex-start;
+  display: flex;
+  height: 615px;
+  left: 110px;
+  min-width: 615px;
+  position: absolute;
+  top: 109px;
+}
+.desktop-1 .x1-rose-quartz {
+  cursor: pointer;
+  height: 72px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 64px;
+  transition: all 0.4s ease;
+  width: 72px;
+}
+.desktop-1 .x1-rose-quartz:hover {
+
+transform: scale(1.25);
+}
+.desktop-1 .x10-amazonite {
+  height: 72px;
+  left: 185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 72px;
+}
+.desktop-1 .x11-tiger-eye {
+  height: 72px;
+  left: 88px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+.desktop-1 .x12-black-tourmaline {
+  height: 73px;
+  left: 284px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 72px;
+}
+.desktop-1 .x13-carnelian {
+  height: 73px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 72px;
+}
+.desktop-1 .x14-hematite {
+  height: 72px;
+  left: 113px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 72px;
+}
+.desktop-1 .x15-malachite {
+  height: 72px;
+  left: 75px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 72px;
+}
+.desktop-1 .x16-dalmatine {
+  height: 72px;
+  left: 115px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 72px;
+}
+.desktop-1 .x17-angelite {
+  height: 72px;
+  left: 55px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 72px;
+}
+.desktop-1 .x18-lepidolite {
+  height: 74px;
+  left: 190px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 72px;
+}
+.desktop-1 .x19-lapis-lazuli {
+  height: 73px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 72px;
+}
+.desktop-1 .x2-labrodarite {
+  height: 73px;
+  left: 45px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+.desktop-1 .x20-serpentine {
+  height: 72px;
+  left: 72px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 72px;
+}
+.desktop-1 .x21-black-onyx {
+  height: 72px;
+  left: 316px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 145px;
+  width: 72px;
+}
+.desktop-1 .x22-howlite {
+  height: 73px;
+  left: 342px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 72px;
+}
+.desktop-1 .x23-blue-goldstone {
+  height: 74px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 283px;
+  width: 72px;
+}
+.desktop-1 .x24-rhodonite {
+  height: 72px;
+  left: 43px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 72px;
+}
+.desktop-1 .x25-fluorite {
+  height: 72px;
+  left: 88px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 219px;
+  width: 73px;
+}
+.desktop-1 .x26-pyrite {
+  height: 72px;
+  left: 118px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 72px;
+}
+.desktop-1 .x27-sunstone {
+  height: 72px;
+  left: 154px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 72px;
+}
+.desktop-1 .x28-blue-aventurine {
+  height: 73px;
+  left: 52px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 437px;
+  width: 72px;
+}
+.desktop-1 .x29-selenite {
+  height: 73px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 287px;
+  width: 72px;
+}
+.desktop-1 .x3-clear-quartz {
+  height: 73px;
+  left: 77px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 72px;
+}
+.desktop-1 .x30-prehnite {
+  height: 72px;
+  left: 152px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 72px;
+}
+.desktop-1 .x31-moss-agate {
+  height: 72px;
+  left: 72px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+.desktop-1 .x32-red-goldstone {
+  height: 73px;
+  left: 34px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 72px;
+}
+.desktop-1 .x33-garnet {
+  height: 73px;
+  left: 12px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 72px;
+}
+.desktop-1 .x34-moonstone {
+  height: 72px;
+  left: 95px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 72px;
+}
+.desktop-1 .x35-leo-jasper {
+  height: 72px;
+  left: 187px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 72px;
+}
+.desktop-1 .x36-apatite {
+  height: 72px;
+  left: 136px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 367px;
+  width: 72px;
+}
+.desktop-1 .x37-blue-calcite {
+  height: 72px;
+  left: 224px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  width: 72px;
+}
+.desktop-1 .x38-mahogany-obsidian {
+  height: 73px;
+  left: 194px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 170px;
+  width: 72px;
+}
+.desktop-1 .x39-unakite {
+  height: 73px;
+  left: 53px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 72px;
+}
+.desktop-1 .x4-sodalite {
+  height: 72px;
+  left: 403px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 397px;
+  width: 72px;
+}
+.desktop-1 .x40-fluorite {
+  height: 72px;
+  left: 66px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+.desktop-1 .x5-aventurine {
+  height: 72px;
+  left: 220px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 72px;
+}
+.desktop-1 .x6-red-jasper {
+  height: 72px;
+  left: 275px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 72px;
+}
+.desktop-1 .x7-snowflake-obsidian {
+  height: 72px;
+  left: 125px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 72px;
+}
+.desktop-1 .x8-citrine {
+  height: 73px;
+  left: 23px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 72px;
+}
+.desktop-1 .x9-amethyst {
+  height: 74px;
+  left: 247px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 171px;
+  width: 72px;
+}

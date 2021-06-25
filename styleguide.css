@@ -1,0 +1,51 @@
+:root {
+  --log-cabin: #222222;
+  --purple-plum: #b042b5;
+  --shampoo: #ffc0f5;
+  --white: #ffffff;
+
+  --font-size-l: 16px;
+  --font-size-m: 13px;
+  --font-size-s: 10px;
+  --font-size-xl: 35px;
+
+  --font-family-blacker_sans_text_trial-medium: "Blacker Sans Text Trial-Medium", Helvetica;
+  --font-family-raleway: "Raleway", Helvetica;
+}
+.raleway-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.raleway-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.raleway-normal-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.blackersanstexttrial-medium-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-blacker_sans_text_trial-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+.border-0-5px-white {
+  border: 0.5px solid var(--white);
+}
+.border-1px-white {
+  border: 1px solid var(--white);
+}
+.border-0-6px-white {
+  border: 0.6px solid var(--white);
+}

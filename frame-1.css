@@ -1,0 +1,419 @@
+/* screen - frame-1 */
+
+#overlay-frame-1 {
+  background-color: transparent;
+  position: absolute;
+}
+#overlay-frame-1 .container-center-horizontal {
+  justify-content: normal;
+}
+#overlay-frame-1 .frame-1 {
+  left: 29.767126083374023px;
+  top: 246.76712799072266px;
+}
+.frame-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 826px;
+  min-width: 1440px;
+}
+.frame-1 .ellipse {
+  border-radius: 5px;
+  height: 10px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 10px;
+}
+.frame-1 .ellipse-1 {
+  border-radius: 5px;
+  height: 10px;
+  width: 10px;
+}
+.frame-1 .ellipse-10 {
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.frame-1 .ellipse-11 {
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.frame-1 .ellipse-12 {
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.frame-1 .ellipse-2 {
+  border-radius: 5px;
+  height: 10px;
+  margin-top: 16px;
+  width: 10px;
+}
+.frame-1 .ellipse-3 {
+  background-color: var(--shampoo);
+  border-radius: 5px;
+  height: 10px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.frame-1 .ellipse-4 {
+  background-color: var(--purple-plum);
+  border-radius: 5px;
+  height: 10px;
+  left: 374px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.frame-1 .ellipse-5 {
+  border-radius: 5px;
+  height: 10px;
+  left: 125px;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.frame-1 .ellipse-6 {
+  border-radius: 9.5px;
+  height: 19px;
+  left: 205px;
+  position: absolute;
+  top: 357px;
+  width: 19px;
+}
+.frame-1 .ellipse-7 {
+  border-radius: 5px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.frame-1 .ellipse-8 {
+  border-radius: 5px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.frame-1 .ellipse-9 {
+  border-radius: 5px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.frame-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.0px;
+  min-height: 62px;
+  width: 10px;
+}
+.frame-1 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+  min-height: 67px;
+  width: 163px;
+}
+.frame-1 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  margin-top: 1.0px;
+  min-height: 62px;
+  width: 10px;
+}
+.frame-1 .group-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 390px;
+  left: 0;
+  min-width: 449px;
+  position: absolute;
+  top: 0;
+}
+.frame-1 .group-6-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 390px;
+  left: 0;
+  min-width: 439px;
+  position: absolute;
+  top: 0;
+}
+.frame-1 .group-8 {
+  align-items: center;
+  display: flex;
+  height: 67px;
+  left: 45px;
+  min-width: 418px;
+  position: absolute;
+  top: 209px;
+}
+.frame-1 .group-8-1 {
+  align-items: center;
+  display: flex;
+  height: 67px;
+  left: 45px;
+  min-width: 394px;
+  position: absolute;
+  top: 209px;
+}
+.frame-1 .overlap-group {
+  height: 390px;
+  position: relative;
+  width: 463px;
+}
+.frame-1 .overlap-group-1 {
+  border-radius: 5px;
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+.frame-1 .overlap-group-2 {
+  border-radius: 5px;
+  height: 10px;
+  margin-top: 16px;
+  position: relative;
+  width: 10px;
+}
+.frame-1 .overlap-group-3 {
+  height: 15px;
+  position: relative;
+  width: 155px;
+}
+.frame-1 .overlap-group-4 {
+  height: 15px;
+  margin-top: 11px;
+  position: relative;
+  width: 151px;
+}
+.frame-1 .overlap-group-5 {
+  height: 15px;
+  margin-top: 11px;
+  position: relative;
+  width: 163px;
+}
+.frame-1 .overlap-group26 {
+  height: 390px;
+  position: relative;
+  width: 439px;
+}
+.frame-1 .rectangle-1 {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 390px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+.frame-1 .rectangle-4 {
+  height: 8px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 359px;
+}
+.frame-1 .text {
+  height: 15px;
+  left: 209px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 359px;
+  width: 13px;
+}
+.frame-1 .text-1 {
+  left: 232px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 60px;
+  width: 148px;
+}
+.frame-1 .text-2 {
+  left: 35px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 344px;
+  width: 98px;
+}
+.frame-1 .text-3 {
+  left: 298px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 344px;
+  width: 98px;
+}
+.frame-1 .text-4 {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+.frame-1 .text-5 {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+.frame-1 .text-55 {
+  left: 22px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+.frame-1 .text-56 {
+  left: 221px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+.frame-1 .text-57 {
+  left: 22px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 151px;
+}
+.frame-1 .text-58 {
+  left: 221px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 151px;
+}
+.frame-1 .text-59 {
+  left: 22px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 163px;
+}
+.frame-1 .text-6 {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 163px;
+}
+.frame-1 .text-60 {
+  left: 221px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 163px;
+}
+.frame-1 .text-7 {
+  letter-spacing: 0;
+  min-height: 15px;
+  mix-blend-mode: normal;
+  width: 155px;
+}
+.frame-1 .text-8 {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  mix-blend-mode: normal;
+  width: 151px;
+}
+.frame-1 .text-9 {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  mix-blend-mode: normal;
+  width: 163px;
+}
+.frame-1 .x {
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.frame-1 .x-1 {
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.frame-1 .x-2 {
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.frame-1 .x-3 {
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.frame-1 .x1-rose-quartz {
+  height: 212px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+.overlay .frame-1 {
+  background-color: #00000000;
+}
